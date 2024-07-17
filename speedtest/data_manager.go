@@ -4,13 +4,14 @@ import (
 	"bytes"
 	"context"
 	"errors"
-	"github.com/showwin/speedtest-go/speedtest/internal"
 	"io"
 	"math"
 	"runtime"
 	"sync"
 	"sync/atomic"
 	"time"
+
+	"github.com/erigontech/speedtest/speedtest/internal"
 )
 
 type Manager interface {

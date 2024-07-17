@@ -1,6 +1,6 @@
 # Issue #192
 
-<img width="1172" alt="SpeedTest-Go (1)" src="https://github.com/showwin/speedtest-go/assets/30739857/ecced0e9-830c-42d6-aa8b-e3dcf8d124d6">
+<img width="1172" alt="SpeedTest-Go (1)" src="https://github.com/erigontech/speedtest/assets/30739857/ecced0e9-830c-42d6-aa8b-e3dcf8d124d6">
 
 1. Use welford alg to quickly calculate standard deviation and mean.
 2. The welford alg integrated moving window feature, This allows us to ignore early data with excessive volatility.

@@ -13,10 +13,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/showwin/speedtest-go/speedtest/transport"
+	"github.com/erigontech/speedtest/speedtest/transport"
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/showwin/speedtest-go/speedtest"
+	"github.com/erigontech/speedtest/speedtest"
 )
 
 var (
