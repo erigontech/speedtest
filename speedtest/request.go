@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/showwin/speedtest-go/speedtest/transport"
+	"github.com/erigontech/speedtest/speedtest/transport"
 )
 
 type (
